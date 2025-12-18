@@ -110,6 +110,7 @@ curl -X POST http://127.0.0.1:8000/validate/email \
 ## 로그기록
 
 모든 요청은 `logs.jsonl` 파일에 **JSON Lines** 형식으로 기록됩니다.
+-# 파일은 자동으로 생성됩니다.
 
 ### 로그 예시
 
